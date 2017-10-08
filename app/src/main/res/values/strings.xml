@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuizPro</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="correct">That´s Right!</string>
+    <string name="incorrect">Try it again</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="results">Results</string>
+    <string name="start_over">Start Over</string>
+
+    <array name="all_questions">
+        <item>¿Cuál es la capital de Gipuzkoa?;Bilbao;Vitoria;*San Sebastian;Eibar</item>
+        <item>¿A qué deporte se dedica Rafael Nadal?;Fútbol;*Tenis;Baloncesto;Balonmano</item>
+        <item>¿Cuántos Balones de Oro tiene Leo Messi?;3;4;Ninguno;*5</item>
+        <item>¿Cuántos títulos de Gran Slam tiene Roger Federer?;15;*19;16;20</item>
+    </array>
+
+</resources>

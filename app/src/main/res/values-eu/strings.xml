@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question">Galdera</string>
+    <string name="next">Jarraitu</string>
+    <string name="incorrect">Saiatu berriz</string>
+    <string name="correct">Zuzena da!</string>
+    <string name="check">Baieztatu</string>
+    <string name="finish">Bukatuta</string>
+    <string name="prev">Aurrekoa</string>
+    <string name="results">Emaitzak</string>
+    <string name="start_over">Berriro hasi</string>
+</resources>
